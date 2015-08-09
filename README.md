@@ -4,3 +4,8 @@ A sample application that includes all of the necessary bits to get an ASP.NET W
 * Authentication - OAuth 2
 * Logging - Log4Net
 * Exception Handling
+* Ioc/DI - StructureMap
+* Build - PSake
+* Data
+	* Migrations - Roundouse
+	* ORM - Dapper
